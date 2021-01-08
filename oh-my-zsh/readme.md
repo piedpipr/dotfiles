@@ -1,3 +1,10 @@
+Installing Pure Prompt in oh-my-zsh
+======================================
+https://github.com/piedpipr/dotfiles/edit/main/oh-my-zsh/pure-prompt.md
+
+
+
+
 Installing Auto-Suggestions and Syntax Highlighting in oh-my-zsh
 ======================================
 
