@@ -1,0 +1,21 @@
+[/]
+audible-bell=true
+background-color='rgb(33,42,54)'
+background-transparency-percent=2
+bold-color='rgb(34,206,157)'
+bold-color-same-as-fg=true
+bold-is-bright=false
+cell-width-scale=1.0
+cursor-colors-set=false
+cursor-foreground-color='rgb(73,176,199)'
+cursor-shape='underline'
+font='Hack Bold 12'
+foreground-color='rgb(215,237,228)'
+highlight-background-color='rgb(254,14,248)'
+highlight-colors-set=false
+palette=['rgb(34,69,77)', 'rgb(255,122,122)', 'rgb(129,241,168)', 'rgb(184,158,218)', 'rgb(255,122,122)', 'rgb(253,77,255)', 'rgb(103,100,71)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+text-blink-mode='always'
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Protik Pop'
