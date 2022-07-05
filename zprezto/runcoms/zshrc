@@ -1,0 +1,23 @@
+#
+# Executes commands at the start of an interactive session.
+#
+# Authors:
+#   Sorin Ionescu <sorin.ionescu@gmail.com>
+#
+
+# Source Prezto.
+if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
+  source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
+fi
+
+
+# Customize to your needs...
+export JAVA_HOME=$(/usr/libexec/java_home)
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+export PATH="$PATH:`pwd`/flutter/bin"
+
+alias python=/usr/local/bin/python3 
+alias iPhone='open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app'
+alias postgres-start='postgres -D /usr/local/var/postgres'
+alias mysql-start='brew services start mysql'
